@@ -1,0 +1,31 @@
+@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<section class="login-hero">
+    <div class="login-shell">
+        <div class="login-art">
+            <h1>@ViewData["Title"]</h1>
+            <p>Welcome back. Step into a crafted space where focus, calm, and security meet.</p>
+            <div class="signature">SuperUU Atelier</div>
+        </div>
+        <div class="login-panel">
+            <h2>Sign in</h2>
+            <div class="subtitle">Your work, refined and ready.</div>
+            <form method="post">
+                <div class="mb-3">
+                    <label class="form-label" for="username">Username</label>
+                    <input class="form-control" id="username" name="username" autocomplete="username" />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" for="password">Password</label>
+                    <input class="form-control" id="password" name="password" type="password" autocomplete="current-password" />
+                </div>
+                <button class="btn btn-primary w-100" type="submit">Sign in</button>
+            </form>
+            <div class="helper">Need access? Contact your administrator for an invitation.</div>
+        </div>
+    </div>
+</section>
