@@ -32,3 +32,11 @@ C:\github\SuperUU\obj\Debug\net8.0\refint\SuperUU.dll
 C:\github\SuperUU\obj\Debug\net8.0\SuperUU.pdb
 C:\github\SuperUU\obj\Debug\net8.0\SuperUU.genruntimeconfig.cache
 C:\github\SuperUU\obj\Debug\net8.0\ref\SuperUU.dll
+C:\github\SuperUU\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\github\SuperUU\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\github\SuperUU\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\github\SuperUU\bin\Debug\net8.0\MySqlConnector.dll
+C:\github\SuperUU\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\github\SuperUU\obj\Debug\net8.0\SuperUU.csproj.AssemblyReference.cache
+C:\github\SuperUU\obj\Debug\net8.0\SuperUU.sourcelink.json
+C:\github\SuperUU\obj\Debug\net8.0\SuperUU.csproj.Up2Date
