@@ -1,10 +1,22 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "首頁";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">SuperUU</h1>
+    @if (User.Identity?.IsAuthenticated == true)
+    {
+        <p class="lead">已登入，歡迎回來 @User.Identity?.Name。</p>
+        <a class="btn btn-primary" asp-page="/Dashboard">前往會員中心</a>
+    }
+    else
+    {
+        <p class="lead">歡迎來到 SuperUU，請先登入或註冊。</p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-center">
+            <a class="btn btn-primary" asp-page="/Login">登入</a>
+            <a class="btn btn-outline-secondary" asp-page="/Register">註冊</a>
+        </div>
+    }
 </div>

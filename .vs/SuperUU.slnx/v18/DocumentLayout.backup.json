@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\github\\SuperUU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\dbtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:pages\\dbtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\dto\\userpasswordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:dto\\userpasswordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:pages\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\context\\superuucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:context\\superuucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\dto\\userloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:dto\\userloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:pages\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\dbtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|solutionrelative:pages\\dbtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{293A9D20-46F3-A12F-F2AF-A68915FA0852}|SuperUU.csproj|c:\\github\\superuu\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,43 +83,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserPasswordReset.cs",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Dto\\UserPasswordReset.cs",
+              "RelativeDocumentMoniker": "Dto\\UserPasswordReset.cs",
+              "ToolTip": "C:\\github\\SuperUU\\Dto\\UserPasswordReset.cs",
+              "RelativeToolTip": "Dto\\UserPasswordReset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:47:54.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\github\\SuperUU\\Pages\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Pages\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:46:14.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\github\\SuperUU\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:30:15.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\github\\SuperUU\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAxwIYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T09:42:21.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperUUContext.cs",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Context\\SuperUUContext.cs",
+              "RelativeDocumentMoniker": "Context\\SuperUUContext.cs",
+              "ToolTip": "C:\\github\\SuperUU\\Context\\SuperUUContext.cs",
+              "RelativeToolTip": "Context\\SuperUUContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T09:34:01.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
+              "ToolTip": "C:\\github\\SuperUU\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T14:30:27.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\github\\SuperUU\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\github\\SuperUU\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T14:01:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "C:\\github\\SuperUU\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T14:20:02.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLoginLog.cs",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Dto\\UserLoginLog.cs",
+              "RelativeDocumentMoniker": "Dto\\UserLoginLog.cs",
+              "ToolTip": "C:\\github\\SuperUU\\Dto\\UserLoginLog.cs",
+              "RelativeToolTip": "Dto\\UserLoginLog.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:06:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Dto\\User.cs",
+              "RelativeDocumentMoniker": "Dto\\User.cs",
+              "ToolTip": "C:\\github\\SuperUU\\Dto\\User.cs",
+              "RelativeToolTip": "Dto\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA0wCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T09:34:38.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\github\\SuperUU\\Pages\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Pages\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T14:30:34.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\github\\SuperUU\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\github\\SuperUU\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:02:13.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DbTest.cshtml",
               "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\DbTest.cshtml",
               "RelativeDocumentMoniker": "Pages\\DbTest.cshtml",
               "ToolTip": "C:\\github\\SuperUU\\Pages\\DbTest.cshtml",
               "RelativeToolTip": "Pages\\DbTest.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-10T14:03:11.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\github\\SuperUU\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\github\\SuperUU\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T14:02:13.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\github\\SuperUU\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\github\\SuperUU\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-10T14:01:24.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
@@ -87,11 +259,12 @@
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-10T13:30:13.771Z"
+              "WhenOpened": "2026-02-10T13:30:13.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -99,11 +272,12 @@
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-10T13:30:12.215Z"
+              "WhenOpened": "2026-02-10T13:30:12.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\github\\SuperUU\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Pages\\Error.cshtml",
@@ -111,19 +285,21 @@
               "RelativeToolTip": "Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-10T13:30:09.537Z"
+              "WhenOpened": "2026-02-10T13:30:09.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\github\\SuperUU\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\github\\SuperUU\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T13:29:58.839Z"
+              "WhenOpened": "2026-02-10T13:29:58.839Z",
+              "EditorCaption": ""
             }
           ]
         }

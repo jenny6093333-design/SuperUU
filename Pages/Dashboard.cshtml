@@ -1,0 +1,30 @@
+@page
+@model DashboardModel
+@{
+    ViewData["Title"] = "會員中心";
+}
+
+<section class="login-hero">
+    <div class="login-shell">
+        <div class="login-art">
+            <h1>@ViewData["Title"]</h1>
+            <p>歡迎回來，@Model.DisplayName</p>
+            <div class="signature">SuperUU</div>
+        </div>
+        <div class="login-panel">
+            <h2>登入成功</h2>
+            <div class="subtitle">這是你的會員中心首頁。</div>
+
+            <div class="mb-3">
+                <div>帳號：@Model.Username</div>
+                <div>電子郵件：@Model.Email</div>
+                <div>角色：@Model.Role</div>
+            </div>
+
+            <div class="d-grid gap-2">
+                <a class="btn btn-primary" href="/Index">前往首頁</a>
+                <a class="btn btn-outline-secondary" href="/Logout">登出</a>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,69 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "註冊";
+}
+
+<section class="login-hero">
+    <div class="login-shell">
+        <div class="login-art">
+            <h1>@ViewData["Title"]</h1>
+            <p>建立你的 SuperUU 帳號，開始使用完整功能。</p>
+            <div class="signature">SuperUU 團隊</div>
+        </div>
+        <div class="login-panel">
+            <h2>建立帳號</h2>
+            <div class="subtitle">請填寫以下資料完成註冊。</div>
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Input.Username"></label>
+                    <input class="form-control" asp-for="Input.Username" autocomplete="username" />
+                    <span class="text-danger" asp-validation-for="Input.Username"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Input.Email"></label>
+                    <input class="form-control" asp-for="Input.Email" type="email" autocomplete="email" />
+                    <span class="text-danger" asp-validation-for="Input.Email"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Input.Phone">手機</label>
+                    <input class="form-control" asp-for="Input.Phone" autocomplete="tel" />
+                    <span class="text-danger" asp-validation-for="Input.Phone"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Input.FullName">姓名</label>
+                    <input class="form-control" asp-for="Input.FullName" autocomplete="name" />
+                    <span class="text-danger" asp-validation-for="Input.FullName"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Input.Gender">性別</label>
+                    <select class="form-select" asp-for="Input.Gender">
+                        <option value="">不指定</option>
+                        <option value="male">男</option>
+                        <option value="female">女</option>
+                        <option value="other">其他</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="Input.Gender"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Input.Birthday">生日</label>
+                    <input class="form-control" asp-for="Input.Birthday" type="date" />
+                    <span class="text-danger" asp-validation-for="Input.Birthday"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Input.Password"></label>
+                    <input class="form-control" asp-for="Input.Password" type="password" autocomplete="new-password" />
+                    <span class="text-danger" asp-validation-for="Input.Password"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Input.ConfirmPassword"></label>
+                    <input class="form-control" asp-for="Input.ConfirmPassword" type="password" autocomplete="new-password" />
+                    <span class="text-danger" asp-validation-for="Input.ConfirmPassword"></span>
+                </div>
+                <button class="btn btn-primary w-100" type="submit">註冊</button>
+            </form>
+            <div class="helper">已經有帳號？直接登入。</div>
+        </div>
+    </div>
+</section>

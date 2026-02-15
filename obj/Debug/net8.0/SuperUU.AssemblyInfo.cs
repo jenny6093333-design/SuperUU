@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperUU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25aac0e179afcc161166ef24abf076faee42d695")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dc6aefadac5c384daeff30578b5779c7c9e0f3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperUU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperUU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
