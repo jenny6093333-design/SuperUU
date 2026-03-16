@@ -10,6 +10,7 @@ public partial class UserPasswordReset
     /// <summary>
     /// 重設紀錄ID
     /// </summary>
+    ///     
     public ulong Id { get; set; }
 
     /// <summary>
